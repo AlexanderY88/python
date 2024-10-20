@@ -1,0 +1,13 @@
+pytest==7.4.2
+requests==2.31.0
+Faker==19.6.1
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+selenium==4.12.0
+
+# to run allure:
+# navigate to foldier with test where cart_tests.py = file name (like at the example), another ways did not work on my pc
+#example pytest D:\PythonLessons\Python_With_Gal\FinalAutomationProject\POM\tests\cart_tests.py --alluredir=allure-results
+# in the end enter to cinsole (terminal): allure serve allure-results
+# To generate the report and save it to allure-report directory:
+# allure generate allure-results -o allure-report --clean

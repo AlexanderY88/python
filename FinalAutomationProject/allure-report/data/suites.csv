@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Aug 31 16:55:21 IDT 2024","Sat Aug 31 16:55:22 IDT 2024","1432","POM.tests","e2e_tests","Test","","","test_07",""
+"passed","Sat Aug 31 16:53:44 IDT 2024","Sat Aug 31 16:53:47 IDT 2024","2769","POM.tests","e2e_tests","Test","","","test_01",""
+"passed","Sat Aug 31 16:54:37 IDT 2024","Sat Aug 31 16:54:38 IDT 2024","1101","POM.tests","e2e_tests","Test","","","test_04",""
+"passed","Sat Aug 31 16:53:57 IDT 2024","Sat Aug 31 16:54:06 IDT 2024","8581","POM.tests","e2e_tests","Test","","","test_02",""
+"passed","Sat Aug 31 16:54:23 IDT 2024","Sat Aug 31 16:54:24 IDT 2024","1039","POM.tests","e2e_tests","Test","","","test_03",""
+"passed","Sat Aug 31 16:54:51 IDT 2024","Sat Aug 31 16:54:52 IDT 2024","1038","POM.tests","e2e_tests","Test","","","test_05",""
+"passed","Sat Aug 31 16:55:06 IDT 2024","Sat Aug 31 16:55:07 IDT 2024","1050","POM.tests","e2e_tests","Test","","","test_06",""
